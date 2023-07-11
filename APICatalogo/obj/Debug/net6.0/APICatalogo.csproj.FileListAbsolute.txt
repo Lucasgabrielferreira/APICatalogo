@@ -52,3 +52,4 @@ C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\System.CodeDom.dll
 C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\System.Text.Json.dll
 C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.sourcelink.json
